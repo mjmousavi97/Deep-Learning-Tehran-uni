@@ -74,7 +74,6 @@ These weights reproduce the transition table and acceptance logic exactly.
 ├── README.md
 └── src/Q1.ipynb
 ```
-> Adjust file names/paths to match your actual repository.
 
 ---
 
