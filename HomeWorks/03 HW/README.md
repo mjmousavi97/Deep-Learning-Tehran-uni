@@ -2,6 +2,16 @@
 
 A compact PyTorch project comparing **three shallow CNN variants** on **MNIST**, **Fashion‑MNIST**, and **CIFAR‑10**.  
 It includes reusable dataloaders, training/evaluation utilities, result plotting, and saved checkpoints for all runs.
+## Reference
+
+This project is a reimplementation/simulation of the following paper:
+
+> Fangyuan Lei, Xun Liu, Qingyun Dai, Bingo Wing-Kuen Ling,  
+> *"Shallow convolutional neural network for image classification"*,  
+> Published online: 17 December 2019, Springer Nature Switzerland AG.  
+> [Link to the paper](https://scispace.com/pdf/shallow-convolutional-neural-network-for-image-8twgtut756.pdf)
+
+The main goal of this project is to reproduce the results and gain a better understanding of the proposed method.
 
 ## Highlights
 
